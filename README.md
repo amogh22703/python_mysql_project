@@ -5,7 +5,10 @@
 
 # Installation commands:
 
-git clone https://github.com/amogh22703/python_mysql_project.git
-cd python_mysql_project/
+git clone https://github.com/amogh22703/python_mysql_project
+
+cd python_mysql_project
+
 sudo bash setup.sh
+
 python3 file.py
