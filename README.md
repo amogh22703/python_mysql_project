@@ -1,9 +1,9 @@
 # Simple python mysql script for course-Managment-code
 
-***Note: This code is just for linux distros ***
-# Bugs disclosure are always welcomed.
+***Note: This code is just for linux distros***
+***Bugs disclosure are always welcomed.***
 
-***# Installation commands:
+***Installation commands:***
 
 git clone https://github.com/amogh22703/python_mysql_project
 
